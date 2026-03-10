@@ -1,0 +1,18 @@
+{
+    "name": "Emberfox.Dynamicuilist.Editor",
+    "rootNamespace": "",
+    "references": [
+        "Emberfox.Dynamicuilist"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
