@@ -1,0 +1,14 @@
+{
+    "name": "Emberfox.Utils.Editor.Tests",
+    "references": [
+        "Emberfox.Utils.Editor",
+        "Emberfox.Utils"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

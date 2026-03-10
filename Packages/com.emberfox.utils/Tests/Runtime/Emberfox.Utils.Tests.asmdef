@@ -1,0 +1,11 @@
+{
+    "name": "Emberfox.Utils.Tests",
+    "references": [
+        "Emberfox.Utils"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

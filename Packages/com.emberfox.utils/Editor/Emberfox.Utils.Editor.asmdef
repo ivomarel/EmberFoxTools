@@ -1,0 +1,10 @@
+{
+    "name": "Emberfox.Utils.Editor",
+    "references": [
+      "Emberfox.Utils"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

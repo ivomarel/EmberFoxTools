@@ -9,7 +9,23 @@
       }
     },
     "com.emberfox.questsystem": {
-      "version": "file:com.ivovdmarel.questsystem",
+      "version": "file:com.emberfox.questsystem",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.test-framework": "1.6.0"
+      }
+    },
+    "com.emberfox.uimanager": {
+      "version": "file:com.emberfox.uimanager",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.test-framework": "1.6.0"
+      }
+    },
+    "com.emberfox.utils": {
+      "version": "file:com.emberfox.utils",
       "depth": 0,
       "source": "embedded",
       "dependencies": {

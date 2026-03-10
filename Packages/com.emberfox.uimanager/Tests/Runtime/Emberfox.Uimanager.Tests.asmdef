@@ -1,0 +1,11 @@
+{
+    "name": "Emberfox.Uimanager.Tests",
+    "references": [
+        "Emberfox.Uimanager"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

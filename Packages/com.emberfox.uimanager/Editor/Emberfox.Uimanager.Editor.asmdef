@@ -1,0 +1,10 @@
+{
+    "name": "Emberfox.Uimanager.Editor",
+    "references": [
+      "Emberfox.Uimanager"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
