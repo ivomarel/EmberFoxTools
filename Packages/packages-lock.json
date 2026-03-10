@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.ivovdmarel.dynamicuilist": {
+    "com.emberfox.dynamicuilist": {
       "version": "file:com.ivovdmarel.dynamicuilist",
       "depth": 0,
       "source": "embedded",
