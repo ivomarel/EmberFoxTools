@@ -1,0 +1,16 @@
+{
+  "name": "com.ivovdmarel.dynamicuilist",
+  "displayName": "DynamicUIList",
+  "version": "1.0.0",
+  "unity": "6000.3",
+  "unityRelease": "9f1",
+  "description": "A simple package for creating dynamic UI lists in UnityGUI.",
+  "dependencies": {
+    "com.unity.test-framework": "1.6.0"
+  },
+  "author": {
+    "name": "Ivo van der Marel",
+    "url": "http://www.emberfoxtechnologies.com",
+    "email": "ivo.marel@gmail.com"
+  }
+}

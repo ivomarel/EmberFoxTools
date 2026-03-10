@@ -1,0 +1,14 @@
+{
+    "name": "Ivovdmarel.Dynamicuilist.Editor.Tests",
+    "references": [
+        "Ivovdmarel.Dynamicuilist.Editor",
+        "Ivovdmarel.Dynamicuilist"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

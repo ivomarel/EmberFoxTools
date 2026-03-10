@@ -1,0 +1,11 @@
+{
+    "name": "Ivovdmarel.Dynamicuilist.Tests",
+    "references": [
+        "Ivovdmarel.Dynamicuilist"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}
