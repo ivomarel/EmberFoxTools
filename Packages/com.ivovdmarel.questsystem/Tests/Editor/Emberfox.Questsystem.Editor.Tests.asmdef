@@ -1,0 +1,14 @@
+{
+    "name": "Emberfox.Questsystem.Editor.Tests",
+    "references": [
+        "Emberfox.Questsystem.Editor",
+        "Emberfox.Questsystem"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

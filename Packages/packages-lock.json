@@ -8,6 +8,14 @@
         "com.unity.test-framework": "1.6.0"
       }
     },
+    "com.emberfox.questsystem": {
+      "version": "file:com.ivovdmarel.questsystem",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.test-framework": "1.6.0"
+      }
+    },
     "com.unity.burst": {
       "version": "1.8.28",
       "depth": 2,

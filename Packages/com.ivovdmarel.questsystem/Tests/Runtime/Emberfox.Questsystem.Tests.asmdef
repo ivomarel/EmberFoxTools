@@ -1,0 +1,11 @@
+{
+    "name": "Emberfox.Questsystem.Tests",
+    "references": [
+        "Emberfox.Questsystem"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

@@ -3,7 +3,7 @@ using UnityEngine.TestTools;
 using NUnit.Framework;
 using System.Collections;
 
-namespace Emberfox.Dynamicuilist.Tests 
+namespace Emberfox.Questsystem.Tests 
 {
 	
 	class RuntimeExampleTest 

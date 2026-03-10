@@ -5,7 +5,7 @@
 //
 // -----------------------------------------------------------------------------
 
-namespace Emberfox.Dynamicuilist
+namespace Emberfox.Questsystem
 {
     /// <summary>
     /// Provide a general description of the public class.

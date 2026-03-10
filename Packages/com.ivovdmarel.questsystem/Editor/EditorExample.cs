@@ -1,10 +1,10 @@
 // -----------------------------------------------------------------------------
 //
-// Use this runtime example C# file to develop runtime code.
+// Use this editor example C# file to develop editor (non-runtime) code.
 //
 // -----------------------------------------------------------------------------
 
-namespace Emberfox.Dynamicuilist
+namespace Emberfox.Questsystem.Editor
 {
     /// <summary>
     /// Provide a general description of the public class.
@@ -13,7 +13,7 @@ namespace Emberfox.Dynamicuilist
     /// Packages require XmlDoc documentation for ALL Package APIs.
     /// https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/xmldoc/xml-documentation-comments
     /// </remarks>
-    public class MyPublicRuntimeExampleClass
+    public class MyPublicEditorExampleClass
     {
         /// <summary>
         /// Provide a description of what this private method does.

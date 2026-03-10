@@ -4,7 +4,7 @@ using UnityEngine.TestTools;
 using NUnit.Framework;
 using System.Collections;
 
-namespace Ivovdmarel.Dynamicuilist.Editor.Tests 
+namespace Emberfox.Dynamicuilist.Editor.Tests 
 {
 	
 	class EditorExampleTest 

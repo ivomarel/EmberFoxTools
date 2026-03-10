@@ -4,7 +4,7 @@
 //
 // -----------------------------------------------------------------------------
 
-namespace Ivovdmarel.Dynamicuilist.Editor
+namespace Emberfox.Dynamicuilist.Editor
 {
     /// <summary>
     /// Provide a general description of the public class.
